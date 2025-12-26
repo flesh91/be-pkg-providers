@@ -30,7 +30,7 @@
         "@diia-inhouse/diia-logger": "2.15.0",
         "@diia-inhouse/diia-queue": "7.3.0",
         "@diia-inhouse/env": "1.16.0",
-        "@diia-inhouse/errors": "1.9.0",
+        "@diia-inhouse/errors": "1.10.0",
         "@diia-inhouse/redis": "2.12.0",
         "@diia-inhouse/types": "6.24.0",
         "@diia-inhouse/utils": "3.5.0",
